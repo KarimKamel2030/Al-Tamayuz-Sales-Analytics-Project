@@ -91,9 +91,7 @@ al-tamayuz-sales-analytics/
 │
 ├── sql/
 │   ├── 01_create_tables.sql
-│   ├── 02_insert_data.sql
-│   ├── 03_analysis_queries.sql
-│   └── 04_optimization_plan.sql
+│   ├── 02_analysis_queries & optimization_plan.sql
 │
 ├── dashboard/
 │   ├── Al_Tamayuz_Dashboard.xlsx
