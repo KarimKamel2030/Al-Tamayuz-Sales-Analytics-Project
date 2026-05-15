@@ -98,8 +98,8 @@ al-tamayuz-sales-analytics/
 │   └── dashboard_screenshot.png
 │
 ├── presentation/
-│   ├── Al_Tamayuz_LinkedIn_Portfolio_Polished.pptx
-│   └── Al_Tamayuz_Sales_Analytics_Project.pdf
+│   ├── Al Tamayuz Analysis.pptx
+│   └── Al_Tamayuz_Summary.pdf
 │
 ├── images/
 │   ├── erd_diagram.png
