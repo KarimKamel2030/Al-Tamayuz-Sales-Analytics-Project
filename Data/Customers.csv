@@ -1,0 +1,301 @@
+﻿Customer_ID,Customer_Name,Country,Signup_Date
+100001,Ahmed Hassan,Saudi Arabia,1/5/2022 0:00
+100002,Sarah Brown,Canada,1/11/2022 0:00
+100003,Mohamed Nasser,Jordan,1/17/2022 0:00
+100004,Fatima Walker,Saudi Arabia,1/23/2022 0:00
+100005,James Farouk,Canada,1/29/2022 0:00
+100006,Nour Evans,Jordan,2/4/2022 0:00
+100007,Omar Sultan,Saudi Arabia,2/10/2022 0:00
+100008,Emily Al Mutairi,Canada,2/9/2022 0:00
+100009,Yousef Carter,Jordan,2/15/2022 0:00
+100010,Layla Al Kuwari,Saudi Arabia,2/21/2022 0:00
+100011,Daniel Reed,Kuwait,2/27/2022 0:00
+100012,Mariam Medhat,India,3/5/2022 0:00
+100013,Ali Ibrahim,Egypt,3/11/2022 0:00
+100014,Olivia Mahmoud,Kuwait,3/17/2022 0:00
+100015,Khaled Clark,India,3/16/2022 0:00
+100016,Hannah Rashid,Egypt,3/22/2022 0:00
+100017,Mostafa Green,Kuwait,3/28/2022 0:00
+100018,Aisha Nabil,India,4/3/2022 0:00
+100019,George Moore,Egypt,4/9/2022 0:00
+100020,Reem Anderson,Kuwait,4/15/2022 0:00
+100021,Tariq Youssef,Bahrain,4/21/2022 0:00
+100022,Sophia Turner,Oman,4/27/2022 0:00
+100023,Huda Al Sabah,United Kingdom,5/3/2022 0:00
+100024,Adam Ahmed,Bahrain,5/2/2022 0:00
+100025,Karim King,Oman,5/8/2022 0:00
+100026,Dana Hussein,United Kingdom,5/14/2022 0:00
+100027,Michael Hall,Bahrain,5/20/2022 0:00
+100028,Sara Fouad,Oman,5/26/2022 0:00
+100029,Abdullah Al Salem,United Kingdom,6/1/2022 0:00
+100030,Jessica Hughes,Bahrain,6/7/2022 0:00
+100031,Hassan Hassan,Australia,6/13/2022 0:00
+100032,Noora Brown,France,6/19/2022 0:00
+100033,Ethan Nasser,United States,6/18/2022 0:00
+100034,Mona Walker,Australia,6/24/2022 0:00
+100035,Fahad Farouk,France,6/30/2022 0:00
+100036,Rachel Evans,United States,7/6/2022 0:00
+100037,Ziad Sultan,Australia,7/12/2022 0:00
+100038,Lina Al Mutairi,France,7/18/2022 0:00
+100039,Chris Carter,United States,7/24/2022 0:00
+100040,Salma Al Kuwari,Australia,7/30/2022 0:00
+100041,Bilal Reed,Qatar,8/5/2022 0:00
+100042,Emma Medhat,Germany,8/4/2022 0:00
+100043,Rashed Ibrahim,UAE,8/10/2022 0:00
+100044,Yara Mahmoud,Qatar,8/16/2022 0:00
+100045,William Clark,Germany,8/22/2022 0:00
+100046,Maha Rashid,UAE,8/28/2022 0:00
+100047,Nasser Green,Qatar,9/3/2022 0:00
+100048,Isabella Nabil,Germany,9/9/2022 0:00
+100049,Amr Moore,UAE,9/15/2022 0:00
+100050,Hind Anderson,Qatar,9/21/2022 0:00
+100051,Saud Youssef,Saudi Arabia,9/27/2022 0:00
+100052,Liam Turner,Canada,10/3/2022 0:00
+100053,Aya Al Sabah,Jordan,10/2/2022 0:00
+100054,Faisal Ahmed,Saudi Arabia,10/8/2022 0:00
+100055,Grace King,Canada,10/14/2022 0:00
+100056,Hamza Hussein,Jordan,10/20/2022 0:00
+100057,Charlotte Hall,Saudi Arabia,10/26/2022 0:00
+100058,Abdulrahman Fouad,Canada,11/1/2022 0:00
+100059,Leila Al Salem,Jordan,11/7/2022 0:00
+100060,Ryan Hughes,Saudi Arabia,11/13/2022 0:00
+100061,Nada Hassan,Kuwait,11/19/2022 0:00
+100062,Khalifa Brown,India,11/18/2022 0:00
+100063,Zainab Nasser,Egypt,11/24/2022 0:00
+100064,Henry Walker,Kuwait,11/30/2022 0:00
+100065,Rania Farouk,India,12/6/2022 0:00
+100066,Sultan Evans,Egypt,12/12/2022 0:00
+100067,Megan Sultan,Kuwait,12/18/2022 0:00
+100068,Sherif Al Mutairi,India,12/24/2022 0:00
+100069,Abeer Carter,Egypt,12/30/2022 0:00
+100070,Noah Al Kuwari,Kuwait,1/5/2023 0:00
+100071,Hamad Reed,Bahrain,1/11/2023 0:00
+100072,Farah Medhat,Oman,1/10/2023 0:00
+100073,Oliver Ibrahim,United Kingdom,1/16/2023 0:00
+100074,Majed Mahmoud,Bahrain,1/22/2023 0:00
+100075,Dina Clark,Oman,1/28/2023 0:00
+100076,Jack Rashid,United Kingdom,2/3/2023 0:00
+100077,Ruba Green,Bahrain,2/9/2023 0:00
+100078,Amina Nabil,Oman,2/15/2023 0:00
+100079,Lucas Moore,United Kingdom,2/21/2023 0:00
+100080,Nadia Anderson,Bahrain,2/27/2023 0:00
+100081,Benjamin Youssef,Australia,3/5/2023 0:00
+100082,Maysa Turner,France,3/11/2023 0:00
+100083,Talal Al Sabah,United States,3/10/2023 0:00
+100084,Sophie Ahmed,Australia,3/16/2023 0:00
+100085,Islam King,France,3/22/2023 0:00
+100086,Hessa Hussein,United States,3/28/2023 0:00
+100087,Andrew Hall,Australia,4/3/2023 0:00
+100088,Rana Fouad,France,4/9/2023 0:00
+100089,Mubarak Al Salem,United States,4/15/2023 0:00
+100090,Victoria Hughes,Australia,4/21/2023 0:00
+100091,Sami Hassan,Qatar,4/27/2023 0:00
+100092,Laila Brown,Germany,4/26/2023 0:00
+100093,Turki Nasser,UAE,5/2/2023 0:00
+100094,Ella Walker,Qatar,5/8/2023 0:00
+100095,Yassin Farouk,Germany,5/14/2023 0:00
+100096,Tamer Evans,UAE,5/20/2023 0:00
+100097,Amal Sultan,Qatar,5/26/2023 0:00
+100098,Peter Al Mutairi,Germany,6/1/2023 0:00
+100099,Alyssa Carter,UAE,6/7/2023 0:00
+100100,Yasmin Al Kuwari,Qatar,6/13/2023 0:00
+100101,Ahmed Reed,Saudi Arabia,6/19/2023 0:00
+100102,Sarah Medhat,Canada,6/25/2023 0:00
+100103,Mohamed Ibrahim,Jordan,6/24/2023 0:00
+100104,Fatima Mahmoud,Saudi Arabia,6/30/2023 0:00
+100105,James Clark,Canada,7/6/2023 0:00
+100106,Nour Rashid,Jordan,7/12/2023 0:00
+100107,Omar Green,Saudi Arabia,7/18/2023 0:00
+100108,Emily Nabil,Canada,7/24/2023 0:00
+100109,Yousef Moore,Jordan,7/30/2023 0:00
+100110,Layla Anderson,Saudi Arabia,8/5/2023 0:00
+100111,Daniel Youssef,Kuwait,8/11/2023 0:00
+100112,Mariam Turner,India,8/10/2023 0:00
+100113,Ali Al Sabah,Egypt,8/16/2023 0:00
+100114,Olivia Ahmed,Kuwait,8/22/2023 0:00
+100115,Khaled King,India,8/28/2023 0:00
+100116,Hannah Hussein,Egypt,9/3/2023 0:00
+100117,Mostafa Hall,Kuwait,9/9/2023 0:00
+100118,Aisha Fouad,India,9/15/2023 0:00
+100119,George Al Salem,Egypt,9/21/2023 0:00
+100120,Reem Hughes,Kuwait,9/27/2023 0:00
+100121,Tariq Hassan,Bahrain,10/3/2023 0:00
+100122,Sophia Brown,Oman,10/9/2023 0:00
+100123,Huda Nasser,United Kingdom,10/8/2023 0:00
+100124,Adam Walker,Bahrain,10/14/2023 0:00
+100125,Karim Farouk,Oman,10/20/2023 0:00
+100126,Dana Evans,United Kingdom,10/26/2023 0:00
+100127,Michael Sultan,Bahrain,11/1/2023 0:00
+100128,Sara Al Mutairi,Oman,11/7/2023 0:00
+100129,Abdullah Carter,United Kingdom,11/13/2023 0:00
+100130,Jessica Al Kuwari,Bahrain,11/19/2023 0:00
+100131,Hassan Reed,Australia,11/25/2023 0:00
+100132,Noora Medhat,France,11/24/2023 0:00
+100133,Ethan Ibrahim,United States,11/30/2023 0:00
+100134,Mona Mahmoud,Australia,12/6/2023 0:00
+100135,Fahad Clark,France,12/12/2023 0:00
+100136,Rachel Rashid,United States,12/18/2023 0:00
+100137,Ziad Green,Australia,12/24/2023 0:00
+100138,Lina Nabil,France,12/30/2023 0:00
+100139,Chris Moore,United States,1/5/2024 0:00
+100140,Salma Anderson,Australia,1/11/2024 0:00
+100141,Bilal Youssef,Qatar,1/17/2024 0:00
+100142,Emma Turner,Germany,1/23/2024 0:00
+100143,Rashed Al Sabah,UAE,1/22/2024 0:00
+100144,Yara Ahmed,Qatar,1/28/2024 0:00
+100145,William King,Germany,2/3/2024 0:00
+100146,Maha Hussein,UAE,2/9/2024 0:00
+100147,Nasser Hall,Qatar,2/15/2024 0:00
+100148,Isabella Fouad,Germany,2/21/2024 0:00
+100149,Amr Al Salem,UAE,2/27/2024 0:00
+100150,Hind Hughes,Qatar,3/4/2024 0:00
+100151,Saud Hassan,Saudi Arabia,3/10/2024 0:00
+100152,Liam Brown,Canada,3/9/2024 0:00
+100153,Aya Nasser,Jordan,3/15/2024 0:00
+100154,Faisal Walker,Saudi Arabia,3/21/2024 0:00
+100155,Grace Farouk,Canada,3/27/2024 0:00
+100156,Hamza Evans,Jordan,4/2/2024 0:00
+100157,Charlotte Sultan,Saudi Arabia,4/8/2024 0:00
+100158,Abdulrahman Al Mutairi,Canada,4/14/2024 0:00
+100159,Leila Carter,Jordan,4/20/2024 0:00
+100160,Ryan Al Kuwari,Saudi Arabia,4/26/2024 0:00
+100161,Nada Reed,Kuwait,5/2/2024 0:00
+100162,Khalifa Medhat,India,5/8/2024 0:00
+100163,Zainab Ibrahim,Egypt,5/7/2024 0:00
+100164,Henry Mahmoud,Kuwait,5/13/2024 0:00
+100165,Rania Clark,India,5/19/2024 0:00
+100166,Sultan Rashid,Egypt,5/25/2024 0:00
+100167,Megan Green,Kuwait,5/31/2024 0:00
+100168,Sherif Nabil,India,6/6/2024 0:00
+100169,Abeer Moore,Egypt,6/12/2024 0:00
+100170,Noah Anderson,Kuwait,6/18/2024 0:00
+100171,Hamad Youssef,Bahrain,6/24/2024 0:00
+100172,Farah Turner,Oman,6/30/2024 0:00
+100173,Oliver Al Sabah,United Kingdom,6/29/2024 0:00
+100174,Majed Ahmed,Bahrain,7/5/2024 0:00
+100175,Dina King,Oman,7/11/2024 0:00
+100176,Jack Hussein,United Kingdom,7/17/2024 0:00
+100177,Ruba Hall,Bahrain,7/23/2024 0:00
+100178,Amina Fouad,Oman,7/29/2024 0:00
+100179,Lucas Al Salem,United Kingdom,8/4/2024 0:00
+100180,Nadia Hughes,Bahrain,8/10/2024 0:00
+100181,Benjamin Hassan,Australia,8/16/2024 0:00
+100182,Maysa Brown,France,8/15/2024 0:00
+100183,Talal Nasser,United States,8/21/2024 0:00
+100184,Sophie Walker,Australia,8/27/2024 0:00
+100185,Islam Farouk,France,9/2/2024 0:00
+100186,Hessa Evans,United States,9/8/2024 0:00
+100187,Andrew Sultan,Australia,9/14/2024 0:00
+100188,Rana Al Mutairi,France,9/20/2024 0:00
+100189,Mubarak Carter,United States,9/26/2024 0:00
+100190,Victoria Al Kuwari,Australia,10/2/2024 0:00
+100191,Sami Reed,Qatar,10/8/2024 0:00
+100192,Laila Medhat,Germany,10/14/2024 0:00
+100193,Turki Ibrahim,UAE,10/13/2024 0:00
+100194,Ella Mahmoud,Qatar,10/19/2024 0:00
+100195,Yassin Clark,Germany,10/25/2024 0:00
+100196,Tamer Rashid,UAE,10/31/2024 0:00
+100197,Amal Green,Qatar,11/6/2024 0:00
+100198,Peter Nabil,Germany,11/12/2024 0:00
+100199,Alyssa Moore,UAE,11/18/2024 0:00
+100200,Yasmin Anderson,Qatar,11/24/2024 0:00
+100201,Ahmed Youssef,Saudi Arabia,11/30/2024 0:00
+100202,Sarah Turner,Canada,11/29/2024 0:00
+100203,Mohamed Al Sabah,Jordan,12/5/2024 0:00
+100204,Fatima Ahmed,Saudi Arabia,12/11/2024 0:00
+100205,James King,Canada,12/17/2024 0:00
+100206,Nour Hussein,Jordan,12/23/2024 0:00
+100207,Omar Hall,Saudi Arabia,12/29/2024 0:00
+100208,Emily Fouad,Canada,1/4/2025 0:00
+100209,Yousef Al Salem,Jordan,1/10/2025 0:00
+100210,Layla Hughes,Saudi Arabia,1/16/2025 0:00
+100211,Daniel Hassan,Kuwait,1/22/2025 0:00
+100212,Mariam Brown,India,1/28/2025 0:00
+100213,Ali Nasser,Egypt,1/27/2025 0:00
+100214,Olivia Walker,Kuwait,2/2/2025 0:00
+100215,Khaled Farouk,India,2/8/2025 0:00
+100216,Hannah Evans,Egypt,2/14/2025 0:00
+100217,Mostafa Sultan,Kuwait,2/20/2025 0:00
+100218,Aisha Al Mutairi,India,2/26/2025 0:00
+100219,George Carter,Egypt,3/4/2025 0:00
+100220,Reem Al Kuwari,Kuwait,3/10/2025 0:00
+100221,Tariq Reed,Bahrain,3/16/2025 0:00
+100222,Sophia Medhat,Oman,3/15/2025 0:00
+100223,Huda Ibrahim,United Kingdom,3/21/2025 0:00
+100224,Adam Mahmoud,Bahrain,3/27/2025 0:00
+100225,Karim Clark,Oman,4/2/2025 0:00
+100226,Dana Rashid,United Kingdom,4/8/2025 0:00
+100227,Michael Green,Bahrain,4/14/2025 0:00
+100228,Sara Nabil,Oman,4/20/2025 0:00
+100229,Abdullah Moore,United Kingdom,4/26/2025 0:00
+100230,Jessica Anderson,Bahrain,5/2/2025 0:00
+100231,Hassan Youssef,Australia,5/8/2025 0:00
+100232,Noora Turner,France,5/14/2025 0:00
+100233,Ethan Al Sabah,United States,5/13/2025 0:00
+100234,Mona Ahmed,Australia,5/19/2025 0:00
+100235,Fahad King,France,5/25/2025 0:00
+100236,Rachel Hussein,United States,5/31/2025 0:00
+100237,Ziad Hall,Australia,6/6/2025 0:00
+100238,Lina Fouad,France,6/12/2025 0:00
+100239,Chris Al Salem,United States,6/18/2025 0:00
+100240,Salma Hughes,Australia,6/24/2025 0:00
+100241,Bilal Hassan,Qatar,6/30/2025 0:00
+100242,Emma Brown,Germany,6/29/2025 0:00
+100243,Rashed Nasser,UAE,7/5/2025 0:00
+100244,Yara Walker,Qatar,7/11/2025 0:00
+100245,William Farouk,Germany,7/17/2025 0:00
+100246,Maha Evans,UAE,7/23/2025 0:00
+100247,Nasser Sultan,Qatar,7/29/2025 0:00
+100248,Isabella Al Mutairi,Germany,8/4/2025 0:00
+100249,Amr Carter,UAE,8/10/2025 0:00
+100250,Hind Al Kuwari,Qatar,8/16/2025 0:00
+100251,Saud Reed,Saudi Arabia,8/22/2025 0:00
+100252,Liam Medhat,Canada,8/28/2025 0:00
+100253,Aya Ibrahim,Jordan,8/27/2025 0:00
+100254,Faisal Mahmoud,Saudi Arabia,9/2/2025 0:00
+100255,Grace Clark,Canada,9/8/2025 0:00
+100256,Hamza Rashid,Jordan,9/14/2025 0:00
+100257,Charlotte Green,Saudi Arabia,9/20/2025 0:00
+100258,Abdulrahman Nabil,Canada,9/26/2025 0:00
+100259,Leila Moore,Jordan,10/2/2025 0:00
+100260,Ryan Anderson,Saudi Arabia,10/8/2025 0:00
+100261,Nada Youssef,Kuwait,10/14/2025 0:00
+100262,Khalifa Turner,India,10/13/2025 0:00
+100263,Zainab Al Sabah,Egypt,10/19/2025 0:00
+100264,Henry Ahmed,Kuwait,10/25/2025 0:00
+100265,Rania King,India,10/31/2025 0:00
+100266,Sultan Hussein,Egypt,11/6/2025 0:00
+100267,Megan Hall,Kuwait,11/12/2025 0:00
+100268,Sherif Fouad,India,11/18/2025 0:00
+100269,Abeer Al Salem,Egypt,11/24/2025 0:00
+100270,Noah Hughes,Kuwait,11/30/2025 0:00
+100271,Hamad Hassan,Bahrain,12/6/2025 0:00
+100272,Farah Brown,Oman,12/12/2025 0:00
+100273,Oliver Nasser,United Kingdom,12/11/2025 0:00
+100274,Majed Walker,Bahrain,12/17/2025 0:00
+100275,Dina Farouk,Oman,12/23/2025 0:00
+100276,Jack Evans,United Kingdom,12/29/2025 0:00
+100277,Ruba Sultan,Bahrain,1/4/2026 0:00
+100278,Amina Al Mutairi,Oman,1/10/2026 0:00
+100279,Lucas Carter,United Kingdom,1/16/2026 0:00
+100280,Nadia Al Kuwari,Bahrain,1/22/2026 0:00
+100281,Benjamin Reed,Australia,1/28/2026 0:00
+100282,Maysa Medhat,France,1/27/2026 0:00
+100283,Talal Ibrahim,United States,2/2/2026 0:00
+100284,Sophie Mahmoud,Australia,2/8/2026 0:00
+100285,Islam Clark,France,2/14/2026 0:00
+100286,Hessa Rashid,United States,2/20/2026 0:00
+100287,Andrew Green,Australia,2/26/2026 0:00
+100288,Rana Nabil,France,3/4/2026 0:00
+100289,Mubarak Moore,United States,3/10/2026 0:00
+100290,Victoria Anderson,Australia,3/16/2026 0:00
+100291,Sami Youssef,Qatar,3/22/2026 0:00
+100292,Laila Turner,Germany,3/28/2026 0:00
+100293,Turki Al Sabah,UAE,3/27/2026 0:00
+100294,Ella Ahmed,Qatar,4/2/2026 0:00
+100295,Yassin King,Germany,4/8/2026 0:00
+100296,Tamer Hussein,UAE,4/14/2026 0:00
+100297,Amal Hall,Qatar,4/20/2026 0:00
+100298,Peter Fouad,Germany,4/26/2026 0:00
+100299,Alyssa Al Salem,UAE,5/2/2026 0:00
+100300,Yasmin Hughes,Qatar,5/8/2026 0:00
