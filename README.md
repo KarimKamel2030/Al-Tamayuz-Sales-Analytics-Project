@@ -106,3 +106,10 @@ al-tamayuz-sales-analytics/
 │   └── project_cover.png
 │
 └── README.md
+
+## Author
+
+Karim Kamel  
+Data Analyst | SQL | Excel | Power BI | Python  
+
+GitHub: KarimKamel2030
